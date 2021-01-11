@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "Borderless Pedagogy"
+date:   2021-1-11 12:00:00 -0400
+categories: article
+file: "2021-01.pdf"
+preview: "2021-01.png"
+---
+
+What were Mr. Bardai's most memorable moments over the past six years? Were Mr. Moon, Ms. Evans, and Mr. Walker's experiences in Asia much different from those at UCC? How did our bands, sports teams, and Robotics club handle the pandemic? And can you understand a student-led Spanish publication? Read our January 2021 Issue of *Convergence*, entitled "Borderless Pedagogy", to find out!
