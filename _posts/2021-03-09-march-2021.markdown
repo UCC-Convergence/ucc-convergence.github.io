@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "Past, Present, Future"
+date:   2021-3-09 12:00:00 -0400
+categories: article
+file: "2021-03.pdf"
+preview: "2021-03.png"
+---
+
+In this edition of *Convergence*, we examine the past, present, and future of UCC and our community. It covers how previous pandemics affected UCC, examines the current state of chess at our school, provides insight into managing university applications in 2021, and looks at how some students are investing into their future. 
