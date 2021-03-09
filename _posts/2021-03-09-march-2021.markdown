@@ -7,4 +7,4 @@ file: "2021-03.pdf"
 preview: "2021-03.jpg"
 ---
 
-In this edition of *Convergence*, we examine the past, present, and future of UCC and our community. It covers how previous pandemics affected UCC, examines the current state of chess at our school, provides insight into managing university applications in 2021, and looks at how some students are investing into their future. 
+In this edition of *Convergence*, we examine some interesting aspects of the past, present, and future of UCC and our community. It covers how previous pandemics affected UCC, examines the current state of chess at our school, provides insight into managing university applications in 2021, and looks at how some students are investing into their future. 
