@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "A UCC Experience"
+date:   2021-04-06 12:00:00 -0400
+categories: article
+file: "2021-04.pdf"
+preview: "2021-04.jpg"
+---
+
+The April issue features a piece by our graduating Co-Editor in Chief, Princeton Zhou, discussing his experience at UCC. The issue also includes an arts spotlight from the perspective of Ms. Macdonell, and Ms. Kaye, a glimpse of boarding life during the pandemic, and various perspectives on teaching during this unusual time from Ms. Evans, Mr. Jeffrey, and Mr. McCubbin. 
