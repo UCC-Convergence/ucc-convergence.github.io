@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "Blue Page: Exam Format"
+date:   2021-04-23 12:00:00 -0400
+categories: article
+file: "2021-04exam.pdf"
+preview: "2021-04exam.png"
+---
+
+Due to the atypical learning models implemented over the past two semesters, the format (and even the existence) of end-of-year examinations has been a major area of debate among students and teachers for a while. In this *Convergence* Blue Page, we asked two Year 11 students to share their perspectives and opinions regarding the currently-planned model of Year 11 exams this year. They happened to offer some differing views. We hope that sharing these perspectives might be useful during the decision-making process if the school decides to re-evaluate the exam models, not only for Year 11 but for other grades as well. 
