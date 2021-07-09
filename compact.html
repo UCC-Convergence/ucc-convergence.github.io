@@ -5,7 +5,7 @@ title: "Archive"
 ---
 
 <div class="container has-text-centered">
-  <p class="title">The Convergence Archives</p>
+  <h1 class="title"style = "padding-top: 10px"><b>The Convergence Archives</b></h1>
   <hr />
   <div class="columns">
     {% for post in site.posts %}
@@ -16,7 +16,7 @@ title: "Archive"
               <img src="{{site.baseurl}}/img/{{post.preview}}" alt="{{ post.date | date: "%b %Y" }} issue cover" />
             </figure>
             </a>
-            <p class="title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+            <h3 class="title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
             <p class="subtitle"><small>{{ post.date | date: "%b %Y" }}</small></p>
           </div>
       </div>
