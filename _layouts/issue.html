@@ -19,11 +19,6 @@ layout: default
       <iframe id = "pdfdisplay" src="{{site.baseurl}}/issues/{{page.file}}" width="100%" height="100%" style="border: none;">
       This browser does not support PDFs. Please download the PDF to view it: <a href="{{site.baseurl}}/issues/{{page.file}}">Download PDF</a>
       </iframe>
-      <script>
-        document.getElementById("pdfdisplay").contentWindow.onload = function() {
-            this.document.getElementsByTagName("img")[0].style="display: none";
-        };
-      </script>
     </object>
   </div>
 </section>
