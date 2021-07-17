@@ -1,6 +1,6 @@
 ---
 layout: issue
-title:  "Special: Y12 Farewell Messages"
+title:  "Y12 Farewell Messages"
 date:   2020-05-06 12:00:00 -0400
 categories: article
 file: "2020-05special.pdf"

@@ -1,6 +1,6 @@
 ---
 layout: issue
-title:  "Convergence Lite: Making The Connection"
+title:  "Convergence Lite: Making the Connection"
 date:   2017-10-01 12:00:00 -0400
 categories: article
 file: "2017-10.pdf"

@@ -1,6 +1,6 @@
 ---
 layout: issue
-title:  "2020 In Review"
+title:  "2020 in Review"
 date:   2020-12-14 12:00:00 -0400
 categories: article
 file: "2020-12.pdf"
