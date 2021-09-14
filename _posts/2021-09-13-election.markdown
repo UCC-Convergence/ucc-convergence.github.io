@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "Federal Election Survey Results"
+date:   2021-09-13 12:00:00 -0400
+categories: article
+file: "2021-09survey.pdf"
+preview: "2021-09survey.jpg"
+---
+
+Between September 2 and 10, 2021, Convergence conducted a school-wide survey to gauge student opinions regarding the upcoming Canadian Federal Election to be held on September 20. We received a total of 160 student responses, the results of which are summarized on the cover page of the attached Special Edition. We also received over 30 insightful comments from students, which we chose to publish in their entirety. We thank everyone for your participation in this survey. 
