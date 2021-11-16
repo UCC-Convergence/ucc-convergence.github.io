@@ -4,7 +4,7 @@ title:  "Learning Model Survey Results"
 date:   2021-11-16 12:00:00 -0400
 categories: article
 file: "2021-11survey.pdf"
-preview: "2021-11survey.jpg"
+preview: "2021-11survey.png"
 ---
 
 From November 4 to 9, 2021, *Convergence* conducted a school-wide survey focused on comparing two learning models: the current 20-day term model and the 8-day cycle model used by our school before COVID. This initiative generated an overwhelming response from the student body - a record of 296 students participated in the survey. Apparently, UCC students consider themselves as the biggest stakeholder of this important issue, which has prompted an outpouring of individual opinions. Some 129 insightful and detailed comments were left in our survey, another record in *Convergence*’s survey history. In this special issue of *Convergence*, we publish the survey results and all the student comments. 
