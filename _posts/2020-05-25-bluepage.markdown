@@ -1,6 +1,6 @@
 ---
 layout: issue
-title:  "Blue Page - Schooling Format"
+title:  "Schooling Format Survey"
 date:   2020-05-25 12:00:00 -0400
 categories: article
 file: "2020-05bp.pdf"
