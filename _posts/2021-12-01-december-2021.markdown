@@ -7,4 +7,4 @@ file: "2021-12.pdf"
 preview: "2021-12.png"
 ---
 
-This issue of *Convergence* is about forming and maintaining social connections. It contains an opinion piece regarding the advantages of Discord and its current status on campus, followed by an introduction to Mattermost as a social platform and two students' unique experiences keeping in touch with friends outside of school during the pandemic. The issue also includes a season recap for the Varsity Soccer team and a showcase of some interesting new clubs at UCC. 
+This issue of *Convergence* is about forming and maintaining social connections. It starts with an opinion piece regarding the advantages of Discord and its current status on campus, followed by an introduction to Mattermost as a social platform and two students' unique experiences keeping in touch with friends outside of school during the pandemic. The issue also includes a season recap for the Varsity Soccer Team, a showcase of some interesting new clubs at UCC, and a very insightful interview with our Pluralism Coordinator about UCC's path to inclusivity. 
