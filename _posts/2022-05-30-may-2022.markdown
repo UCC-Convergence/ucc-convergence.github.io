@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "May I?"
+date:   2022-05-30 12:00:00 -0400
+categories: article
+file: "2022-05.pdf"
+preview: "2022-05.png"
+---
+
+These past months at the college were marked by several special events, one of which was the highly successful COSSOT Relay for Life. This May issue of *Convergence*, titled "May I?", features an interview with recently-graduated executive member Lewis Lapham where we dove in deeper about the planning process, goals and achievements of the event. As well, we interviewed Dr. Julia Kinnear, our school's Academic Dean, to find out more about the new 9-day schedule which will begin in the next academic year and what it might mean for both students and teachers.
