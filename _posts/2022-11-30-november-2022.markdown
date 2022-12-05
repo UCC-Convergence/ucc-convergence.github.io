@@ -1,0 +1,12 @@
+---
+layout: issue
+title:  "Qué lo Qué?"
+date:   2022-11-30 12:00:00 -0400
+categories: article
+file: "2022-11.pdf"
+preview: "2022-11.png"
+---
+
+In the November edition of *Convergence*, titled "Qué lo Qué?" or "What's Up," we feature a compelling interview with Yunkai Shi, a Year 10 student who describes his experiences as a published author in the creation of his modern fantasy book, "Unnaturally Tainted." We also incorporate a detailed report on Islamic and Hispanic Heritage Month and provide two contrasting perspectives on the controversial nine-day cycle. Last but not leeast, this issue features two Spanish bulletins from Ms. Rodriguez's Spanish class, "La Estrella Azul" and "Los Cientos," to celebrate Hispanic heritage month which took place in October. This includes a range of conversation-provoking student perspectives and reports about school-related activities.
+
+
