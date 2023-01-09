@@ -1,0 +1,12 @@
+---
+layout: issue
+title:  "World Cup"
+date:   2022-12-30 12:00:00 -0400
+categories: article
+file: "2022-12worldcup.pdf"
+preview: "2022-12worldcup.png"
+---
+
+This special December issue of *Convergence* provides a summary of the survey released last month about the World Cup that gave the UCC Community the opportunity to predict the results of the tournament. The teams that were voted to win each match-up advanced to the subsequent round. In the end, we received more than 500 responses and felt this was a thoughtful way of highlighting a very eventful tournament. We thank everyone for their support throughout the year and wish you all a wonderful break and 2023.
+
+
