@@ -1,7 +1,7 @@
 ---
 layout: issue
 title:  "Year-In-Review Survey 2022"
-date:   2023-01-30 12:00:00 -0400
+date:   2023-01-20 12:00:00 -0400
 categories: article
 file: "2023-01.pdf"
 preview: "2023-01.png"
