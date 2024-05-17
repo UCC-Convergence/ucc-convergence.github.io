@@ -1,10 +1,10 @@
 ---
 layout: issue
-title:  "A Future of Paranoia"
+title:  "Voyage and Voice"
 date:   2023-02-28 12:00:00 -0400
 categories: article
-file: "2023-02.pdf"
-preview: "2023-02.png"
+file: "Convergence November Edition (2) (2).pdf"
+preview: "convergence cover-1.png"
 ---
 
 Just a few months ago, ChatGPT took schools around the world by storm. This February Edition of *Convergence*, features students', teachers', and ChatGPT's (our robot reporter) contrasting perceptions and insights into artificial intelligence. Specifically, Convergence explores its benefits, detriments, and effects on the school system. It also includes a passionate and inquisitive article on UCC’s founder, John Colborne, and an interview with UCC’s Model UN on their historic win at SSUNS in November. 
