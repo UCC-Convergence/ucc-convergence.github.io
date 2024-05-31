@@ -3,8 +3,8 @@ layout: issue
 title:  "Year-in-Review Survey 2023"
 date:   2024-01-22 12:00:00 -0400
 categories: article
-file: "2024-01.pdf"
-preview: "2024-01.png"
+file: "2024-03.pdf"
+preview: "2024-03.png"
 ---
 
 Are teachers happier than students? Has 2023 outperformed 2022? Has UCC performed well over the past year? The 2023 Year-In-Review results are out and they may surprise you. This Special Issue features responses from over 150 members of the UCC Community and includes brutally honest responses from the student body. Our results feature information on a broad range of social categories and include direct comments, criticisms, and New Year resolutions from our community members. We also launched a new section about teachers and directly compared their feelings in the year 2023 to those of the student body. We hope you enjoy reading, and we wish you all the best for 2024!
