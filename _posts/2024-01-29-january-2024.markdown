@@ -1,9 +1,0 @@
----
-layout: issue
-title:  "The Aftermath of the 3-day Grace"
-date:   2024-01-29 12:00:00 -0400
-categories: article
-file: "2024-01a.pdf"
-preview: "2024-01a.jpg"
----
-
