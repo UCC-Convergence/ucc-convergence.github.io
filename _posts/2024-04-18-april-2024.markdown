@@ -1,0 +1,11 @@
+---
+layout: issue
+title:  "Beyond Earth: Exploring Other Worlds"
+date:   2024-04-18 12:00:00 -0400
+categories: article
+file: "2024-04.pdf"
+preview: "2024-04.jpg"
+---
+
+*Convergence* is happy to release its April Edition, “Beyond Earth: Exploring Other Worlds”. We spotlight an EXCLUSIVE interview with the first Canadian woman in space and WAC closing keynote Dr. Roberta Bondar. In this interview, Bondar candidly presents her unique experiences in and out of space. We also feature a compelling article on Bondar which details the value her life story presents to the student body. Finally, we conclude with an article revolving around the digital world. It answers a perennial query among the gaming community, “What is the best way to mine in Minecraft?” 
+
