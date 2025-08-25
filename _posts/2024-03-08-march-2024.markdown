@@ -4,6 +4,6 @@ title:  "Around the World"
 date:   2024-03-08 12:00:00 -0400
 categories: article
 file: "2024-03.pdf"
-preview: "2024-01a.jpg"
+preview: "2024-03.jpg"
 ---
 
