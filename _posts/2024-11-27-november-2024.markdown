@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "Changes"
+date:   2024-11-27 12:00:00 -0400
+categories: article
+file: "2024-11.pdf"
+preview: "2024-11.jpg"
+---
+
+The past few months at the College and in our society as a whole have been marked by sweeping changes. This November issue of *Convergence* features reports on our country's political and social spheres, as well as accounts of recent school events and an exclusive interview with sports executive Jonathan Erlichman '08.
