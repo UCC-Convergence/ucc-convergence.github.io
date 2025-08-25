@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "One Nation, One Future"
+date:   2025-04-04 12:00:00 -0400
+categories: article
+file: "2025-04.pdf"
+preview: "2025-04.jpg"
+---
+
+Our community has changed a lot over the past few months. A new prime minister. A new head steward. A new political climate. This April issue of Convergence features reports on the sweeping changes in and outside of the College, as well as exclusive interviews with WAC keynote Bill Weir and incoming head steward Chris Jagdeo.
