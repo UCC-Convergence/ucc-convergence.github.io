@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "The View from Here"
+date:   2025-10-20 12:00:00 -0400
+categories: article
+file: "2025-10.pdf"
+preview: "2025-10.jpg"
+---
+
+A new school year brings new perspectives. New leadership. New momentum. This October issue of *Convergence* celebrates a year of extraordinary achievements, including Founders Cup, Bags to Beds, TEDx, and more. It also features bold new perspectives from the Board of Stewards and an exclusive interview with Mr. DeGiorgio.
