@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "Game On"
+date:   2025-11-17 12:00:00 -0400
+categories: article
+file: "2025-11.pdf"
+preview: "2025-11.jpg"
+---
+
+As fall settles in and the grey of November takes over, the pace on campus picks up. CISAA Playoffs, House Soccer Finals, and major initiatives are all reaching their peak. This November issue of *Convergence* checks in on UCC’s Football and Rowing teams and the leaders of the inaugural Keep Ups for a Kause initiative to see who delivered when it counted. With exclusive House Sports insights from Mr. Sturino and expert Fantasy Football advice, we’re here to keep you ahead, because now, it’s Game On.
