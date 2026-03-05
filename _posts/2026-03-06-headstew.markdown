@@ -3,8 +3,8 @@ layout: issue
 title:  "Head Steward: An Exclusive Interview"
 date:   2026-03-06 12:00:00 -0400
 categories: article
-file: "2026-Head Stew.pdf"
-preview: "2026-Head Stew.jpg"
+file: "2026-HeadStew.pdf"
+preview: "2026-HeadStew.jpg"
 ---
 
 Springtime beckons change, even in leadership. Get to know your next head steward in this special issue of *Convergence*. 
