@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "Accountability and Action"
+date:   2026-03-31 12:00:00 -0400
+categories: article
+file: "2026-03.pdf"
+preview: "2026-03.jpg"
+---
+
+Accountability is easy to demand, but far harder to practice. This March issue of *Convergence* examines what happens when responsibility is taken, and when it isn’t. From legendary Canadian astronaut Chris Hadfield’s reflections on risk and decision-making, to an exclusive interview with Aramark on the logistics of fuelling a campus, we peel back the curtain on the hidden systems that keep UCC and Canada running. We ask a simple question: who acts, and who answers for the consequences?
