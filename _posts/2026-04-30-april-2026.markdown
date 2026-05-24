@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "Perspectives"
+date:   2026-04-30 12:00:00
+categories: article
+file: "2026-04.pdf"
+preview: "2026-04.png"
+---
+
+A key role of *Convergence* is to showcase the ideas and perspectives of leaders and innovators in and outside campus. This April issue features a conversation with former Minister of Environment and Climate Change Steven Guilbeault and an exclusive interview with Year 11 student Adam Zhu about his AI-based Community Economic Development project, along with the successful endeavours of various UCC co-curricular and extra-curricular organizations.
