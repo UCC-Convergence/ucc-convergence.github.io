@@ -4,7 +4,7 @@ title:  "Conclusions"
 date:   2026-05-31 12:00:00 -0400
 categories: article
 file: "2026-06.pdf"
-preview: "2026-06.png"
+preview: "2026-06.PNG"
 ---
 
 The end of the school year is always a bittersweet occasion, with many newcomers and many departures. This month marks the final issue of *Convergence* for graduating Editor-In-Chief Matthew Tong '26 and retiring Faculty Advisor Ms. Colleen Ferguson, whose concluding thoughts are featured.
